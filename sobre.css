@@ -9,8 +9,8 @@ body {
   min-height: 100vh;
 }
 p {
-    margin-bottom: 20px;
-    text-align: justify;
+    /* margin-bottom: 20px; */
+    /* text-align: justify; */
 }
 /* Navbar */
 .navbar {
